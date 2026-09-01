@@ -1,0 +1,1 @@
+export { S } from "../../screens/SettingsScreen";
